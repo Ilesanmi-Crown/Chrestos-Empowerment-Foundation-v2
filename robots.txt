@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.christhosempowermentfoindation.com/sitemap.xml
+Sitemap: https://www.chresthosempowermentfoundation.com/sitemap.xml
